@@ -1,9 +1,0 @@
-{
-	"name": "ClimateDataFactory",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "b3c990a2-6015-4129-890e-b505b60103c7",
-		"tenantId": "6a7bb5a9-3ad3-414b-b605-d371e2a8a33b"
-	}
-}
